@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute more to any Open Source projects
-- ⚡ Fun fact: I used to play piano and I wrote a book once
+- ⚡ Fun fact: I used to play piano and I wrote a book called [Plugged In][book] once
 
 ### Connect with me:
 
@@ -36,3 +36,4 @@
 [twitter]: https://twitter.com/Greg_Wills1
 [instagram]: https://www.instagram.com/gregwills2.0/
 [linkedin]: https://www.linkedin.com/in/gregoryjwills/
+[book]: https://www.amazon.com/dp/B07CJKSPPR/ref=dp-kindle-redirect?_encoding=UTF8&ampbtkr=1

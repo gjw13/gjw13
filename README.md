@@ -5,9 +5,8 @@
 
 ## I'm a Developer and Sports Enthusiast!!
 
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2023 Goals: Contribute more to any Open Source projects
-- ⚡ Fun fact: I used to play piano and I wrote a book called [Plugged In][book] once
+- 🥅 2024 Goals: Contribute more to any Open Source projects
+- ⚡ Fun fact: I used to play piano and I wrote a book called [Plugged In][book]
 
 ### Connect with me:
 
